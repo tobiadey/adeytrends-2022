@@ -2,7 +2,7 @@
 
 ##### Adeytrends is a fashion/tech brand I started at the age of 17 with the aim of building tools for the fashion communnity.
 
-##### Check out the [website](www.adeytrends.com)
+##### Check out the [website](https://www.adeytrends.com)
 ![alt text](src/at_archi.png)
 In the image above the application points to a DNS entry on Route53, which points to the Amazon CloudFront distribution which points to the S3 bucket that contains the website files.
 #### Explanation of AWS tool used?
